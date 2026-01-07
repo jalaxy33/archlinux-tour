@@ -19,6 +19,7 @@
     - [手动安装](https://github.com/jalaxy33/archlinux-tour/wiki/手动安装系统)
         - [硬盘分区](https://github.com/jalaxy33/archlinux-tour/wiki/手动安装系统#硬盘分区)
         - [安装系统](https://github.com/jalaxy33/archlinux-tour/wiki/手动安装系统#安装系统)
+        - [系统初始配置](https://github.com/jalaxy33/archlinux-tour/wiki/手动安装系统#系统初始配置)
     - [脚本安装](https://github.com/jalaxy33/archlinux-tour/wiki/用脚本安装系统)
        - [更新脚本](https://github.com/jalaxy33/archlinux-tour/wiki/用脚本安装系统#更新脚本)
        - [开始安装](https://github.com/jalaxy33/archlinux-tour/wiki/用脚本安装系统#开始安装)
