@@ -138,14 +138,16 @@ cfdisk /dev/nvme0n1 #选择要使用的硬盘
 
 接下来正式安装archlinux，手动安装或者脚本安装皆可，后者更简单。
 
-- [手动安装](https://github.com/jalaxy33/archlinux-tour/wiki/手动安装系统)
-- [脚本安装](https://github.com/jalaxy33/archlinux-tour/wiki/用脚本安装系统)
+- [手动安装](./手动安装系统)
+- [脚本安装](./用脚本安装系统)
 
 
 ## 重启前的工作
 
 在安装完系统重启电脑之前，还需要完成一些必要步骤。
 
-**请看这里👉**：[重启前的工作](https://github.com/jalaxy33/archlinux-tour/wiki/安装后重启前的工作)
+**请看这里👉**：[重启前的工作](./安装后重启前的工作)
 
 
+
+## 下一步：[安装桌面环境前的基本配置](./安装桌面环境前的基本配置)

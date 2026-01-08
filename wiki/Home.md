@@ -10,6 +10,6 @@
 - [archwiki](https://wiki.archlinuxcn.org/wiki/%E9%A6%96%E9%A1%B5)：archlinux官方使用指南，对于很多问题都有很详细的解答。
 
 
-## 下一步：[安装任意系统前的准备工作](https://github.com/jalaxy33/archlinux-tour/wiki/安装任意系统前的准备工作)
+## 下一步：[安装任意系统前的准备工作](./安装任意系统前的准备工作)
 
 
